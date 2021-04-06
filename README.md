@@ -13,6 +13,8 @@
 <h2 align="left">ML Algorithm</h2>
 <h3 align="left"> Supervised</h3>
 <h4 align="left">Regression</h4>
-linear regression
-<img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear1.png" alt="Fisr step to Simple linear">
-
+<b>linear regression<b>
+ with single feature
+<img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear1.png" alt="First step to Simple linear">
+with two feature
+<img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear2.png" alt="Secounde step to Simple linear">  
