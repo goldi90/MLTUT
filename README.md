@@ -14,11 +14,3 @@
 <h3 align="left"> Supervised</h3>
 <h4 align="left">Regression</h4>
 <b>linear regression<b>
- with single feature
-  <figure>
-  <img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear1.png" alt="Trulli" style="width:40px">
-  <figcaption>With Sigle Feature</figcaption>
-</figure>
-
- <h5>with two feature</h5><br>
-<img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear2.png" alt="Secounde step to Simple linear">  
