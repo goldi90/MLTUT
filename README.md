@@ -10,4 +10,4 @@
   <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a>
  
 </p>
-## Ml Algorithm
+<h2 align="left">ML Algorithm</h2>
