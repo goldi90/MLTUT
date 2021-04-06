@@ -16,5 +16,5 @@
 <b>linear regression<b>
  with single feature
 <img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear1.png" alt="First step to Simple linear" align="left"><br><br>
- <h5>with two feature</h5>
+ <h5>with two feature</h5><br>
 <img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear2.png" alt="Secounde step to Simple linear" align="left">  
