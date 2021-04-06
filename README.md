@@ -11,4 +11,4 @@
  
 </p>
 <h2 align="left">ML Algorithm</h2>
-<h3 align="right"> Supervised</h3>
+<h3 align="left"> Supervised</h3>
