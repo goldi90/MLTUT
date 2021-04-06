@@ -15,6 +15,6 @@
 <h4 align="left">Regression</h4>
 <b>linear regression<b>
  with single feature
-<img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear1.png" alt="First step to Simple linear">
+<img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear1.png" alt="First step to Simple linear" align="left">
 with two feature
-<img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear2.png" alt="Secounde step to Simple linear">  
+<img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear2.png" alt="Secounde step to Simple linear" align="left">  
