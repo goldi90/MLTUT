@@ -12,9 +12,4 @@
 </p>
 <h2 align="left">ML Algorithm</h2>
 <h3 align="left"> Supervised</h3>
-<select Name="Supervised" Size="Number_of_options">  
-  <option> List item 1 </option>  
-  <option> List item 2 </option>  
-  <option> List item 3 </option>  
-  <option> List item N </option>  
-</select> 
+
