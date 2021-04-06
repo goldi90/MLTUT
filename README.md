@@ -16,9 +16,9 @@
 <b>linear regression<b>
  with single feature
   <figure>
-  <img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear1.png" alt="Trulli" style="width:100%">
+  <img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear1.png" alt="Trulli" style="width:40px">
   <figcaption>With Sigle Feature</figcaption>
 </figure>
-<img src="" alt="First step to Simple linear"><br><br>
+
  <h5>with two feature</h5><br>
 <img src="https://github.com/goldi90/MlRepoMaterial/blob/main/Linear2.png" alt="Secounde step to Simple linear">  
