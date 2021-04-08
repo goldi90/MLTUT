@@ -14,3 +14,4 @@
 <h3 align="left"> Supervised</h3>
 <h4 align="left">Regression</h4>
 <b>linear regression<b>
+  y=f(x)
