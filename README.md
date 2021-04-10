@@ -14,6 +14,6 @@
 <h3 align="left"> Supervised</h3>
 <h4 align="left">Regression</h4>
 <b>linear regression<b>
-  <p><b>y=f(x)</b> Here y is an is dependent variable and x is independent variable
+  <p><b>y=f(x)</b> Here y is an is dependent variable and x is independent variable<br>
     y= b<sub>o<sub>
   </p>
