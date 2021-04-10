@@ -16,6 +16,6 @@
 <b>linear regression<b>
   <p><b>y=f(x)</b> Here y is an is dependent variable and x is independent variable<br>
     y= b<sub>o</sub>+(B<sub>1</sub> * x<sub>1</sub>) <br>
-    b<sub>o</sub> =Constant , B<sub>1</sub>= coefficient
+    b<sub>o</sub> =Constant , B<sub>1</sub>= coefficient , x<sub>1</sub> = independent variable , y= is dependent Variable
     
   </p>
