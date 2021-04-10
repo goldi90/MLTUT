@@ -15,5 +15,5 @@
 <h4 align="left">Regression</h4>
 <b>linear regression<b>
   <p><b>y=f(x)</b> Here y is an is dependent variable and x is independent variable<br>
-    y= b<sub>o<sub>
+    y= b<sub>o<sub>+(B<sub>1<sub> * x<sub>x<sub>
   </p>
