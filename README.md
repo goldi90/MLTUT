@@ -14,10 +14,10 @@
 <h3 align="left"> Supervised</h3>
 <h4 align="left">Regression</h4>
 <b> Simple linear regression<b>
-  
-  
-  </p>
+</p>
   <table>
     <th>X
+    </th>
+    <th>y
     </th>
     </table>
