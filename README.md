@@ -15,5 +15,8 @@
 <h4 align="left">Regression</h4>
 <b> Simple linear regression<b>
   
-    
+    <table>
+    <th>X
+    </th>
+    </table>
   </p>
