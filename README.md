@@ -48,4 +48,16 @@ Find linear regression equation for the following two sets of data
     <td>7</td>
     <td>16</td>
     <td>28</td>
+  </tr>  
+  <tr>
+    <td>6</td>
+    <td>5</td>
+    <td>36</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>10</td>
+    <td>64</td>
+    <td>80</td>
   </tr>
