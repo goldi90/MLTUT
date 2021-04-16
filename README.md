@@ -42,6 +42,10 @@ Find linear regression equation for the following two sets of data
     <td>3</td>
     <td>4</td>
     <td>6</td>
-    
   </tr>
-  <tr>
+    <tr>
+    <td>4</td>
+    <td>7</td>
+    <td>6</td>
+    <td>8</td>
+  </tr>
