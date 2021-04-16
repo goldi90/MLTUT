@@ -13,8 +13,7 @@
 <h2 align="left">ML Algorithm</h2>
 <h3 align="left"> Supervised</h3>
 <h4 align="left">Regression</h4>
-<b> Simple linear regression<b>
-  Find linear regression equation for the following two sets of data
+Find linear regression equation for the following two sets of data
 </p>
 <table>
 <th>x</th>
