@@ -30,3 +30,12 @@ Find linear regression equation for the following two sets of data
 <td>10</td>
 </table> 
 <h5> Construction of table</h5>
+
+<table>
+  <tr>
+    <th>x</th>
+    <th>2</th>
+    <th>4</th>
+    <th>6</th>
+    <th>8</th>
+  </tr>
