@@ -70,5 +70,6 @@ Find linear regression equation for the following two sets of data
 </tr>
   </table>
   
+  <img src=https://github.com/goldi90/MlRepoMaterial/blob/main/CodeCogsEqn.gif></img>
  
   
