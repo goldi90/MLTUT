@@ -61,3 +61,6 @@ Find linear regression equation for the following two sets of data
     <td>64</td>
     <td>80</td>
   </tr>
+<tr>
+  <td> &Sigma; x=20</td>
+  </tr>
