@@ -25,7 +25,7 @@
     </td>
      <td>8
     </td>
-    </th>
+    </th><br>
     <th>y
     </th>
     </table>
