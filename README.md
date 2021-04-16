@@ -17,6 +17,8 @@
 </p>
   <table>
     <th>X
+      <td>2
+    </td>
     </th>
     <th>y
     </th>
