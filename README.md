@@ -19,6 +19,12 @@
     <th>X
       <td>2
     </td>
+     <td>4
+    </td>
+     <td>6
+    </td>
+     <td>8
+    </td>
     </th>
     <th>y
     </th>
