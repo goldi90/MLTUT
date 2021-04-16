@@ -1,4 +1,5 @@
 # Machine Learning
+<script src="https://latex.oncodecogs.com/editor.js"></script>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
