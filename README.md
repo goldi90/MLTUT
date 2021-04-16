@@ -30,7 +30,6 @@ Find linear regression equation for the following two sets of data
 <td>10</td>
 </table> 
 <h5> Construction of table</h5>
-
 <table>
   <tr>
     <th>x</th>
@@ -39,8 +38,10 @@ Find linear regression equation for the following two sets of data
     <th>xy</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>2</td>
+    <td>4</td>
+    <td>6</td>
+    <td>8</td>
+    <td>6</td>
   </tr>
   <tr>
