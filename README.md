@@ -15,19 +15,4 @@
 <h4 align="left">Regression</h4>
 <b> Simple linear regression<b>
 </p>
-  <table>
-    <th>X
-      <td>2
-    </td>
-     <td>4
-    </td>
-     <td>6
-    </td>
-     <td>8
-    </td>
-    </th>
-    <th>y
-      <td>
-  </td>3
-    </th>
-    </table>
+ 
