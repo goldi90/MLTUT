@@ -70,5 +70,5 @@ Find linear regression equation for the following two sets of data
 </tr>
   </table>
   
-  b=\frac{n\sum xy -\left ( \sum x \right  )\left ( \sum_{}^{} y \right )}{n\sum x^{2} -\left ( \sum x \right  )^{2}} 
+ 
   
