@@ -63,4 +63,6 @@ Find linear regression equation for the following two sets of data
   </tr>
 <tr>
   <td> &Sigma; x=20</td>
+  <td> &Sigma; y=25</td>
+  <td> &Sigma; x<sup>2</sup>=120</td>
   </tr>
