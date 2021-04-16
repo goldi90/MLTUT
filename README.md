@@ -70,6 +70,7 @@ Find linear regression equation for the following two sets of data
 </tr>
   </table>
   
- b= <img src=https://github.com/goldi90/MlRepoMaterial/blob/main/CodeCogsEqn.gif></img>
+ b= <img src=https://github.com/goldi90/MlRepoMaterial/blob/main/CodeCogsEqn.gif></img><br>
+ <img src=https://github.com/goldi90/MlRepoMaterial/blob/main/CodeCogs2.gif></img>
  
   
