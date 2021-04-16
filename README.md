@@ -29,3 +29,4 @@ Find linear regression equation for the following two sets of data
 <td>5</td>
 <td>10</td>
 </table> 
+<h5> Construction of table</h5>
