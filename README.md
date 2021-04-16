@@ -46,6 +46,6 @@ Find linear regression equation for the following two sets of data
     <tr>
     <td>4</td>
     <td>7</td>
-    <td>6</td>
-    <td>8</td>
+    <td>16</td>
+    <td>28</td>
   </tr>
